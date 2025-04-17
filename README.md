@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="tel:+919876543210" target="_blank">
+<a href="tel:+919067748556" target="_blank">
   <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
 </a>
 &nbsp;
