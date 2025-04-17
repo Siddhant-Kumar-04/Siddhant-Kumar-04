@@ -63,7 +63,7 @@
 ---
 
 ### 🎓 Certifications:
-- ✅ **JFull Stack Development** 
+- ✅ **Full Stack Development** 
 - ✅ **Certificate in Java Programming** 
 - ✅ **Certificate in Python Programming** 
 - ✅ **Diploma in Computer Programming** 
