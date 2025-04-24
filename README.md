@@ -8,6 +8,7 @@
 ---
 
 ### 🔥 Profile Views  
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Siddhant-Kumar-04&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
@@ -45,8 +46,9 @@
 </p>
 
 ---
-<div align="center">
 ### 📊 GitHub Stats:
+<div align="center">
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-Kumar-04&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-Kumar-04&theme=dark&hide_border=false" />
@@ -60,8 +62,11 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Siddhant-Kumar-04&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
----
+
 </div>
+
+---
+
 ### 🎓 Certifications:
 - ✅ **Full Stack Development** 
 - ✅ **Certificate in Java Programming** 
@@ -71,7 +76,7 @@
 
 
 
----
+
 
 ---
 
