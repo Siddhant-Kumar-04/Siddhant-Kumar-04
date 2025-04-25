@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-Kumar-04&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-Kumar-04&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-Kumar-04&theme=dark&hide_border=false&layout=compact" style="width:30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-Kumar-04&theme=dark&hide_border=false&layout=compact" style="width:50%"/>
 </p>
 
 ---
