@@ -69,10 +69,15 @@
 ---
 
 ### 🎓 Certifications:
-- ✅ **Full Stack Development** 
-- ✅ **Certificate in Java Programming** 
-- ✅ **Certificate in Python Programming** 
-- ✅ **Diploma in Computer Programming** 
+
+➤ <strong>Full Stack Development</strong> <a href="#" style="text-decoration:none;">   **|Link** </a>  
+➤ <strong>Certificate in Java Programming</strong><a href="#" style="text-decoration: none;">  **|Link**</a>  
+➤ <strong>Certificate in Python Programming</strong><a href="#" style="text-decoration: none;">  **|Link** </a>  
+➤ <strong>Diploma in Computer Programming</strong><a href="#" style="text-decoration: none;">  **|Link** </a>  
+
+
+
+
 
 
 
