@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 # 👋 Hello, I'm Siddhant Kumar  
 ### 💻 Software Developer | Passionate about Building & Learning
