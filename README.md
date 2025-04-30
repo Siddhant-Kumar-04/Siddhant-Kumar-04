@@ -1,5 +1,4 @@
 <div align="center">
-  
 # 👋 Hello, I'm Siddhant Kumar  
 ### 💻 Software Developer | Passionate about Building & Learning
 
