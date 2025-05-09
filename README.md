@@ -8,7 +8,7 @@
 
 ---
 
-### 🔥 Profile Views 
+### 🔥 Profile View
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Siddhant-Kumar-04&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
