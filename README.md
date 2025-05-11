@@ -71,12 +71,10 @@
 
 ### 🎓 Certifications:
 
-➤ <strong>Full Stack Development</strong> <a href="#" style="text-decoration:none;"> -   **Present** </a>  
-➤ <strong>Certificate in Java Programming</strong><a href="https://drive.google.com/file/d/1Us2tVRPWzFPWqQLoKNlm6nrd8kgsUqyG/view?usp=drive_link" style="text-decoration: none;">  **|Link**</a>  
-➤ <strong>Certificate in Python Programming</strong><a href="https://drive.google.com/file/d/1-7X1DdB-i8DSrAqmIcRLgs_sZ5WhqRzW/view?usp=drive_link" style="text-decoration: none;">  **|Link** </a>  
-➤ <strong>Certificate in C Programming</strong><a href="[https://drive.google.com/file/d/1-7X1DdB-i8DSrAqmIcRLgs_sZ5WhqRzW/view?usp=drive_link](https://drive.google.com/file/d/1ogjwhGhEGN9PGMnoQ9UmoCsELNML6p1E/view?usp=drive_link)" style="text-decoration: none;">  **|Link** </a>  
-
-
+➤ <strong>Full Stack Development  (Physics Wallah)</strong> <a href="#" style="text-decoration:none;"> -   **Present** </a>  
+➤ <strong>Certificate in Java Programming (MKCL)</strong><a href="https://drive.google.com/file/d/1Us2tVRPWzFPWqQLoKNlm6nrd8kgsUqyG/view?usp=drive_link" style="text-decoration: none;">  **|Link**</a>  
+➤ <strong>Certificate in Python Programming (MKCL) </strong><a href="https://drive.google.com/file/d/1-7X1DdB-i8DSrAqmIcRLgs_sZ5WhqRzW/view?usp=drive_link" style="text-decoration: none;">  **|Link** </a>  
+➤ <strong>Certificate in C Programming (AICPE) </strong><a href="https://drive.google.com/file/d/1ogjwhGhEGN9PGMnoQ9UmoCsELNML6p1E/view?usp=sharing" style="text-decoration: none;">  **|Link** </a>  
 ➤ <strong>Diploma in Computer Programming</strong><a href="#" style="text-decoration: none;">  **|Link** </a>  
 
 
